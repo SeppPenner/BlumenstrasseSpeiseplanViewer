@@ -7,6 +7,9 @@ The executable was written and tested in .Net 4.6.2.
 
 [![Build status](https://ci.appveyor.com/api/projects/status/3k72g5f5m4hicirq?svg=true)](https://ci.appveyor.com/project/SeppPenner/thedummyproject)
 
+## Screenshot from the executable:
+![Screenshot from the executable](https://github.com/SeppPenner/BlumenstrasseSpeiseplanViewer/blob/master/Screenshot.PNG "Screenshot from the executable")
+
 Change history
 --------------
 
