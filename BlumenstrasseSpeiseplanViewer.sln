@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Express 2012 for Windows Desktop
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlumenstrasseSpeiseplanViewer", "BlumenstrasseSpeiseplanViewer\BlumenstrasseSpeiseplanViewer.csproj", "{FCE5BD31-0340-4AC6-B8F7-4D0770772F63}"
 EndProject
 Global
@@ -16,5 +18,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AB5019A-09EC-4A93-8EEB-58458C3DFECE}
 	EndGlobalSection
 EndGlobal
