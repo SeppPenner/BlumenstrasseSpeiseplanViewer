@@ -11,8 +11,8 @@ namespace BlumenstrasseSpeiseplanViewer
             try
             {
                 WindowState = FormWindowState.Maximized;
-                pdfReader.LoadFile("http://www.energieparkkantine.de/fileadmin/files/speiseplan/speiseplan.pdf");
-                pdfReader.src = "http://www.energieparkkantine.de/fileadmin/files/speiseplan/speiseplan.pdf";
+                pdfReader.LoadFile("http://schmack-immobilien.de/fileadmin/user_upload/speiseplan/speiseplan_kantine_energiepark.pdf");
+                pdfReader.src = "http://schmack-immobilien.de/fileadmin/user_upload/speiseplan/speiseplan_kantine_energiepark.pdf";
                 pdfReader.setShowToolbar(false);
                 pdfReader.setView("FitH");
                 pdfReader.setLayoutMode("SinglePage");
