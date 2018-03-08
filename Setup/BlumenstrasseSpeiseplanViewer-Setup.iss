@@ -6,7 +6,7 @@
 #define MyAppPublisher "Hämmer Electronics"
 #define MyAppURL "www.softwareload24.de.tl"
 #define MyAppExeName "BlumenstrasseSpeiseplanViewer.exe"
-#define MyPath "F:\TODO\C# und VB\BlumenstrasseSpeiseplanViewer"
+#define MyPath "F:\TODO\BlumenstrasseSpeiseplanViewer"
 
 [Setup]
 ; NOTE: The value of AppId uniquely identifies this application.
