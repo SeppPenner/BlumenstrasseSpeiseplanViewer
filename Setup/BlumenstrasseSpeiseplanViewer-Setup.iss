@@ -2,11 +2,11 @@
 ; SEE THE DOCUMENTATION FOR DETAILS ON CREATING INNO SETUP SCRIPT FILES!
 
 #define MyAppName "BlumenstrasseSpeiseplanViewer"
-#define MyAppVersion "1.0.0.3"
+#define MyAppVersion "1.0.0.4"
 #define MyAppPublisher "Hämmer Electronics"
 #define MyAppURL "www.softwareload24.de.tl"
 #define MyAppExeName "BlumenstrasseSpeiseplanViewer.exe"
-#define MyPath "F:\TODO\BlumenstrasseSpeiseplanViewer"
+#define MyPath "C:\Users\tim\Desktop\Updaten_Snyk\BlumenstrasseSpeiseplanViewer"
 
 [Setup]
 ; NOTE: The value of AppId uniquely identifies this application.
