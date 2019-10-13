@@ -26,10 +26,10 @@ AppUpdatesURL={#MyAppURL}
 DefaultDirName={commonpf}\{#MyAppName}
 DefaultGroupName={#MyAppName}
 AllowNoIcons=yes
-LicenseFile={#MyPath}\BlumenstrasseSpeiseplanViewer\bin\Debug\License.txt
+LicenseFile={#MyPath}\BlumenstrasseSpeiseplanViewer\bin\Release\License.txt
 OutputDir={#MyPath}\Setup
 OutputBaseFilename=BlumenstrasseSpeiseplanViewer-Setup
-SetupIconFile={#MyPath}\BlumenstrasseSpeiseplanViewer\bin\Debug\Food.ico
+SetupIconFile={#MyPath}\BlumenstrasseSpeiseplanViewer\bin\Release\Food.ico
 Compression=lzma
 SolidCompression=yes
 
