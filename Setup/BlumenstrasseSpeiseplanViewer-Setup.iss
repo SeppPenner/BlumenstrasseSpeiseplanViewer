@@ -6,7 +6,7 @@
 #define MyAppPublisher "Hämmer Electronics"
 #define MyAppURL "www.softwareload24.de.tl"
 #define MyAppExeName "BlumenstrasseSpeiseplanViewer.exe"
-#define MyPath "C:\Users\tim\Desktop\Updaten_Snyk\BlumenstrasseSpeiseplanViewer"
+#define MyPath "C:\Users\Tim\Documents\Git\C# und VB\BlumenstrasseSpeiseplanViewer"
 
 [Setup]
 ; NOTE: The value of AppId uniquely identifies this application.
@@ -23,7 +23,7 @@ AppPublisher={#MyAppPublisher}
 AppPublisherURL={#MyAppURL}
 AppSupportURL={#MyAppURL}
 AppUpdatesURL={#MyAppURL}
-DefaultDirName={pf}\{#MyAppName}
+DefaultDirName={commonpf}\{#MyAppName}
 DefaultGroupName={#MyAppName}
 AllowNoIcons=yes
 LicenseFile={#MyPath}\BlumenstrasseSpeiseplanViewer\bin\Debug\License.txt
@@ -42,11 +42,11 @@ Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{
 Name: "quicklaunchicon"; Description: "{cm:CreateQuickLaunchIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked; OnlyBelowVersion: 0,6.1
 
 [Files]
-Source: "{#MyPath}\BlumenstrasseSpeiseplanViewer\bin\Debug\BlumenstrasseSpeiseplanViewer.exe"; DestDir: "{app}"; Flags: ignoreversion
-Source: "{#MyPath}\BlumenstrasseSpeiseplanViewer\bin\Debug\AxInterop.AcroPDFLib.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "{#MyPath}\BlumenstrasseSpeiseplanViewer\bin\Debug\Interop.AcroPDFLib.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "{#MyPath}\BlumenstrasseSpeiseplanViewer\bin\Debug\License.txt"; DestDir: "{app}"; Flags: ignoreversion
-Source: "{#MyPath}\BlumenstrasseSpeiseplanViewer\bin\Debug\Food.ico"; DestDir: "{app}"; Flags: ignoreversion
+Source: "{#MyPath}\BlumenstrasseSpeiseplanViewer\bin\Release\BlumenstrasseSpeiseplanViewer.exe"; DestDir: "{app}"; Flags: ignoreversion
+Source: "{#MyPath}\BlumenstrasseSpeiseplanViewer\bin\Release\AxInterop.AcroPDFLib.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: "{#MyPath}\BlumenstrasseSpeiseplanViewer\bin\Release\Interop.AcroPDFLib.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: "{#MyPath}\BlumenstrasseSpeiseplanViewer\bin\Release\License.txt"; DestDir: "{app}"; Flags: ignoreversion
+Source: "{#MyPath}\BlumenstrasseSpeiseplanViewer\bin\Release\Food.ico"; DestDir: "{app}"; Flags: ignoreversion
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Icons]

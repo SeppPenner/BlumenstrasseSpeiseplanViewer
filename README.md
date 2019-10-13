@@ -18,6 +18,7 @@ The executable was written and tested in .Net 4.8.
 Change history
 --------------
 
+* **Version 1.0.1.0 (2019-10-13)** : Updated nuget packages, added GitVersionTask.
 * **Version 1.0.0.4 (2019-05-06)** : Updated .Net version to 4.8.
 * **Version 1.0.0.3 (2018-03-08)** : Added new link for labora GmbH.
 * **Version 1.0.0.2 (2018-02-11)** : Switched to .Net to 4.7.
