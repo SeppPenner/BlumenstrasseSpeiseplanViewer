@@ -9,7 +9,7 @@ The executable was written and tested in .Net 4.8.
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/BlumenstrasseSpeiseplanViewer.svg)](https://github.com/SeppPenner/BlumenstrasseSpeiseplanViewer/issues)
 [![GitHub forks](https://img.shields.io/github/forks/SeppPenner/BlumenstrasseSpeiseplanViewer.svg)](https://github.com/SeppPenner/BlumenstrasseSpeiseplanViewer/network)
 [![GitHub stars](https://img.shields.io/github/stars/SeppPenner/BlumenstrasseSpeiseplanViewer.svg)](https://github.com/SeppPenner/BlumenstrasseSpeiseplanViewer/stargazers)
-[![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/SeppPenner/BlumenstrasseSpeiseplanViewer/master/License.txt)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://raw.githubusercontent.com/SeppPenner/BlumenstrasseSpeiseplanViewer/master/License.txt)
 [![Known Vulnerabilities](https://snyk.io/test/github/SeppPenner/BlumenstrasseSpeiseplanViewer/badge.svg)](https://snyk.io/test/github/SeppPenner/BlumenstrasseSpeiseplanViewer)
 
 ## Screenshot from the executable:
